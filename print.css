@@ -1,0 +1,22 @@
+
+/* Osama Halawani - 2037370
+    Hamed Fallatah - 2035900
+    Sultan Humusani - 2036377
+
+    Date: 7/12/2023 */
+
+@media print {
+    body * {
+        visibility: hidden;
+    }
+
+    #woTi * {
+        visibility: visible;
+    }
+
+    #woTi {
+        position: absolute;
+        right: 40%;
+        top: 40px;
+    }
+}
